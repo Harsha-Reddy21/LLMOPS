@@ -1,0 +1,10 @@
+.env
+myenv/
+env
+myenv 
+.venv 
+./venv
+venv/
+faiss_index/
+logs/
+.env.local
